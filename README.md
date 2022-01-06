@@ -10,9 +10,9 @@ With over five years of experience in mobile application development. I currentl
 
 ## Technical Skills
 
-- **Languages:** C, C++, Dart, Java, JavaScript, Angular, C#,  SQL, NoSQL
+- **Languages:** Dart, Flutter,  Java, JavaScript, Angular, C#, SQL, NoSQL
 - **Cloud Platforms:** Firebase, AWS
-- **Methodologies:** Agile
+- **Methodologies:** Agile, Scrum, Kanban
 
 
 ## Education & Training
