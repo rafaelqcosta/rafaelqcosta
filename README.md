@@ -15,6 +15,19 @@ With over five years of experience in mobile application development. I currentl
 - **Methodologies:** Agile, Scrum, Kanban
 
 
+## Experiences
+
+- **State Management:** Bloc, Mobx,  Getx, Triple
+- **Firebase** Storage, Firestore, Analytics, Crashlytics, AppDistribution, Authentication, Push Notification
+- **Google Maps API**
+- **Tets** DDD, TDD, BDD 
+- **Design Thinking**
+- **Google Play and Apple Store Consoles** experience in app publishing
+- 
+
+
+
+
 ## Education & Training
 
 Bachelor's Degree in Systems Analysis and Development, Catholic university of Brasília, BR - 2011 - 2015
