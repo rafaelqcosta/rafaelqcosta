@@ -20,9 +20,10 @@ With over five years of experience in mobile application development. I currentl
 - **State Management:** Bloc, Mobx,  Getx, Triple
 - **Firebase** Storage, Firestore, Analytics, Crashlytics, AppDistribution, Authentication, Push Notification
 - **Google Maps API**
-- **Tets** DDD, TDD, BDD 
+- **Tets:** TDD, BDD 
 - **Design Thinking**
 - **Google Play and Apple Store Consoles** experience in app publishing
+- **Achitecture:** Clean Architecture, Modular, DDD, 
 - 
 
 
